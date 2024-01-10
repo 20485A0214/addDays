@@ -1,0 +1,10 @@
+dependencies:
+  date-fns: 3.2.0
+lockfileVersion: 5.2
+packages:
+  /date-fns/3.2.0:
+    dev: false
+    resolution:
+      integrity: sha512-E4KWKavANzeuusPi0jUjpuI22SURAznGkx7eZV+4i6x2A+IZxAMcajgkvuDAU1bg40+xuhW1zRdVIIM/4khuIg==
+specifiers:
+  date-fns: ^3.2.0
